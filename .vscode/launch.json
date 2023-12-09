@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringsecuritybasicApplication<springsecuritybasic>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.eazybytes.springsecuritybasic.SpringsecuritybasicApplication",
+            "projectName": "springsecuritybasic",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
